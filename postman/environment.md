@@ -3,7 +3,7 @@
 ## Файл окружения
 
 ```text
-reqres-dev.postman_environment.json
+ReqRes Dev.postman_environment.json
 ```
 
 ## Переменные
@@ -13,3 +13,4 @@ reqres-dev.postman_environment.json
 | `base_url` | `https://reqres.in` |
 | `api_key` | `reqres_api_key` |
 
+`reqres_api_key` используется как placeholder. Перед запуском коллекции в Postman нужно заменить значение переменной `api_key` на актуальный API key из ReqRes.
