@@ -28,20 +28,12 @@
 api-testing-postman/
   README.md
   project-overview.md
-  02-api-endpoints.md
-  03-test-plan.md
-  04-checklist.md
-  05-test-cases.md
-  06-bug-reports.md
-  07-test-report.md
-  postman/
-    README.md
-    collection-placeholder.md
-    environment-placeholder.md
-  reports/
-    README.md
-  screenshots/
-    README.md
+  01-api-endpoints.md
+  02-test-plan.md
+  03-checklist.md
+  04-tets-cases.md
+  05-bug-reports.md
+  06-test-reports.md
 ```
 
 ## Что будет внутри
